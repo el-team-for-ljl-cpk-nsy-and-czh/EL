@@ -1,7 +1,7 @@
 #! /usr/bin/env python
 # -*- coding: utf-8 -*-
 import re
-
+#哈哈哈哈哈哈哈
 def wordcount(filepath):
     file=open(filepath,'r')
     str_ori=file.read()
